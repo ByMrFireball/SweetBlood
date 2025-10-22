@@ -1,0 +1,111 @@
+[22Oct2025 02:27:07.691] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[22Oct2025 02:27:07.694] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1
+[22Oct2025 02:27:07.694] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[22Oct2025 02:27:07.810] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[22Oct2025 02:27:07.968] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/SweetBlood/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[22Oct2025 02:27:08.298] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[22Oct2025 02:27:08.763] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[22Oct2025 02:27:17.661] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 60.0.0, for MC 1.21.10 with MCP 20251007.101210
+[22Oct2025 02:27:17.662] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v60.0.0 Initialized
+[22Oct2025 02:27:17.696] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[22Oct2025 02:27:18.564] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Oct2025 02:27:19.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 60.0.0 Target: 60.0.10
+[22Oct2025 02:27:20.413] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[22Oct2025 02:27:24.132] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1461 recipes
+[22Oct2025 02:27:24.158] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1574 advancements
+[22Oct2025 02:27:24.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.10
+[22Oct2025 02:27:24.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Oct2025 02:27:24.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Oct2025 02:27:24.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Oct2025 02:27:24.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Oct2025 02:27:24.794] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Oct2025 02:27:24.853] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Oct2025 02:27:24.853] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Oct2025 02:27:24.854] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Oct2025 02:27:24.854] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Oct2025 02:27:24.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Oct2025 02:27:25.496] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Loading 0 persistent chunks...
+[22Oct2025 02:27:25.498] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Preparing spawn area: 100%
+[22Oct2025 02:27:25.509] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Time elapsed: 14 ms
+[22Oct2025 02:27:25.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (0.644s)! For help, type "help"
+[22Oct2025 02:27:25.567] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Oct2025 02:28:13.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: frayryderx[/10.244.149.123:64949] logged in with entity id 20 at (7.5, 71.0, 1.5)
+[22Oct2025 02:28:13.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: frayryderx joined the game
+[22Oct2025 02:28:20.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DeinHastel[/10.244.84.152:65009] logged in with entity id 174 at (15.5, 73.0, 9.5)
+[22Oct2025 02:28:20.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeinHastel joined the game
+[22Oct2025 02:28:27.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByMrFireball23[/10.244.55.225:57466] logged in with entity id 222 at (39.872880846718544, 125.0, -91.75994321526372)
+[22Oct2025 02:28:27.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 joined the game
+[22Oct2025 02:31:23.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeinHastel has made the advancement [Stone Age]
+[22Oct2025 02:32:14.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeinHastel has made the advancement [Getting an Upgrade]
+[22Oct2025 02:33:38.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeinHastel has made the advancement [Monster Hunter]
+[22Oct2025 02:34:14.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: frayryderx has made the advancement [Monster Hunter]
+[22Oct2025 02:34:43.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 has made the advancement [Stone Age]
+[22Oct2025 02:35:48.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: frayryderx has made the advancement [Stone Age]
+[22Oct2025 02:36:12.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 was shot by Skeleton
+[22Oct2025 02:36:18.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: frayryderx was shot by Skeleton
+[22Oct2025 02:37:24.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 has made the advancement [Getting an Upgrade]
+[22Oct2025 02:40:34.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: frayryderx has made the advancement [Getting an Upgrade]
+[22Oct2025 02:47:40.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22Oct2025 02:48:00.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4708ms or 94 ticks behind
+[22Oct2025 02:48:16.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 has made the advancement [Acquire Hardware]
+[22Oct2025 02:48:21.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 has made the advancement [Isn't It Iron Pick]
+[22Oct2025 02:48:23.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeinHastel has made the advancement [Acquire Hardware]
+[22Oct2025 02:48:32.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeinHastel has made the advancement [Isn't It Iron Pick]
+[22Oct2025 02:49:25.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeinHastel has made the advancement [Suit Up]
+[22Oct2025 02:51:26.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: frayryderx has made the advancement [Sweet Dreams]
+[22Oct2025 02:51:36.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <frayryderx> dasda
+[22Oct2025 02:51:55.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeinHastel was blown up by Creeper
+[22Oct2025 02:56:35.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeinHastel has made the advancement [Not Today, Thank You]
+[22Oct2025 02:58:20.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[22Oct2025 02:58:39.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3587ms or 71 ticks behind
+[22Oct2025 03:00:11.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 was obliterated by a sonically-charged shriek
+[22Oct2025 03:05:42.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: frayryderx has made the advancement [Acquire Hardware]
+[22Oct2025 03:05:57.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: frayryderx has made the advancement [Suit Up]
+[22Oct2025 03:08:59.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[22Oct2025 03:09:25.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeinHastel has made the advancement [Diamonds!]
+[22Oct2025 03:12:20.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: frayryderx has made the advancement [Isn't It Iron Pick]
+[22Oct2025 03:21:11.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: frayryderx has made the advancement [Not Today, Thank You]
+[22Oct2025 03:23:57.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: frayryderx has made the advancement [Diamonds!]
+[22Oct2025 03:24:02.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 has made the advancement [Monster Hunter]
+[22Oct2025 03:24:23.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebastian15P[/10.244.116.84:46012] logged in with entity id 21639 at (9.5, 80.0, -8.5)
+[22Oct2025 03:24:23.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian15P joined the game
+[22Oct2025 03:30:11.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian15P has made the advancement [Getting an Upgrade]
+[22Oct2025 03:30:39.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian15P fell from a high place
+[22Oct2025 03:32:19.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian15P has made the advancement [Stone Age]
+[22Oct2025 03:32:51.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian15P has made the advancement [Sneak 100]
+[22Oct2025 03:35:39.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian15P was obliterated by a sonically-charged shriek
+[22Oct2025 03:35:44.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <frayryderx> :v
+[22Oct2025 03:36:02.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeinHastel has made the advancement [Take Aim]
+[22Oct2025 03:37:27.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 was obliterated by a sonically-charged shriek
+[22Oct2025 03:38:08.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 fell from a high place
+[22Oct2025 03:40:17.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeinHastel has made the advancement [Sweet Dreams]
+[22Oct2025 03:40:36.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 has made the advancement [Diamonds!]
+[22Oct2025 03:40:42.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian15P has made the advancement [Diamonds!]
+[22Oct2025 03:44:10.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: frayryderx was blown up by Creeper
+[22Oct2025 03:47:44.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: frayryderx drowned
+[22Oct2025 03:56:05.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian15P was slain by Zombie
+[22Oct2025 03:57:46.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DeinHastel> fercho
+[22Oct2025 03:58:45.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian15P has made the advancement [Isn't It Iron Pick]
+[22Oct2025 03:59:01.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 fell from a high place
+[22Oct2025 03:59:52.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 fell from a high place
+[22Oct2025 04:02:31.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeinHastel has made the advancement [Cover Me with Diamonds]
+[22Oct2025 04:02:45.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian15P has made the advancement [Suit Up]
+[22Oct2025 04:02:56.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 has made the advancement [Suit Up]
+[22Oct2025 04:04:58.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 has made the advancement [Sneak 100]
+[22Oct2025 04:16:38.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeinHastel has made the advancement [A Seedy Place]
+[22Oct2025 04:18:44.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: frayryderx has made the advancement [A Seedy Place]
+[22Oct2025 04:20:38.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 was shot by Skeleton
+[22Oct2025 04:22:30.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Oct2025 04:22:47.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[22Oct2025 04:24:22.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 has made the advancement [Sweet Dreams]
+[22Oct2025 04:25:11.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByMrFireball23 lost connection: Disconnected
+[22Oct2025 04:25:11.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByMrFireball23 left the game
+[22Oct2025 04:27:09.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian15P has made the advancement [Monster Hunter]
+[22Oct2025 04:29:22.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DeinHastel> sebas
+[22Oct2025 04:29:27.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DeinHastel> tenes hilo
+[22Oct2025 04:34:23.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian15P has made the advancement [Sweet Dreams]
+[22Oct2025 04:49:11.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DeinHastel> -23 105
+[22Oct2025 04:50:38.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <frayryderx> . _.
+[22Oct2025 04:52:14.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: frayryderx lost connection: Disconnected
+[22Oct2025 04:52:14.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: frayryderx left the game
+[22Oct2025 04:53:03.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeinHastel has made the advancement [Ice Bucket Challenge]
